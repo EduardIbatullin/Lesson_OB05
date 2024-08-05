@@ -9,7 +9,7 @@ OBSTACLE_SIZE = 40
 LIFE_SIZE = 30
 COIN_RADIUS = 10
 DIAMOND_SIZE = 30
-FPS = 60
+FPS = 10
 LIVES = 3
 
 # Определение цветов в формате RGB
